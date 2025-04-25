@@ -1,0 +1,10 @@
+2025-04-25 17:38:45,755 - SistemaFacturacion - INFO - Conexión exitosa a SistemaFacturacion
+2025-04-25 17:38:54,013 - ClienteController - INFO - Conexión exitosa a SistemaFacturacion
+2025-04-25 17:39:02,230 - ProductoController - INFO - Conexión exitosa a SistemaFacturacion
+2025-04-25 17:39:10,408 - FacturaController - INFO - Conexión exitosa a SistemaFacturacion
+2025-04-25 17:39:18,646 - BusquedaController - INFO - Conexión exitosa a SistemaFacturacion
+2025-04-25 17:57:12,703 - SistemaFacturacion - INFO - Conexión cerrada correctamente
+2025-04-25 17:57:12,711 - ClienteController - INFO - Conexión cerrada correctamente
+2025-04-25 17:57:12,714 - ProductoController - INFO - Conexión cerrada correctamente
+2025-04-25 17:57:12,721 - FacturaController - INFO - Conexión cerrada correctamente
+2025-04-25 17:57:12,724 - BusquedaController - INFO - Conexión cerrada correctamente
